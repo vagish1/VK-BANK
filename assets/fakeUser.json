@@ -1,0 +1,68 @@
+{
+    "fakeUsers" : [
+        {
+            "UID" : 110212,
+            "NAME" : "Ashish Sahi",
+            "ACCOUNT" : 14526587412452,
+            "AMOUNT" : 87452
+
+        },
+        {
+            "UID" : 110213,
+            "NAME" : "Ujjwal Kumar",
+            "ACCOUNT" : 145265874245157,
+            "AMOUNT" : 9904
+
+        },
+        {
+            "UID" : 110214,
+            "NAME" : "Manas Jha",
+            "ACCOUNT" : 145265412874152,
+            "AMOUNT" : 7525
+
+        },
+        {
+            "UID" : 110215,
+            "NAME" : "Yash Raj",
+            "ACCOUNT" : 145294523017820,
+            "AMOUNT" : 10051
+
+        },
+        {
+            "UID" : 110216,
+            "NAME" : "Narendara Modi",
+            "ACCOUNT" : 145287427441152,
+            "AMOUNT" : 1002542
+
+        },
+        {
+            "UID" : 110217,
+            "NAME" : "Pappu",
+            "ACCOUNT" : 145294523017920,
+            "AMOUNT" : 151
+
+        }
+        , {
+            "UID" : 110218,
+            "NAME" : "Amit shah",
+            "ACCOUNT" : 145287452452458,
+            "AMOUNT" : 100242
+
+        },
+        {
+            "UID" : 110219,
+            "NAME" : "Arnav Goswami",
+            "ACCOUNT" : 145294523019854,
+            "AMOUNT" : 100
+
+        },
+        {
+            "UID" : 110220,
+            "NAME" : "Sudhir chaudhary",
+            "ACCOUNT" : 145294523098217,
+            "AMOUNT" : 50
+
+        }
+
+    ]
+}
